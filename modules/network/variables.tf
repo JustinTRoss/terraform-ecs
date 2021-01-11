@@ -23,7 +23,7 @@ variable "public_subnet_cidrs" {
 
 variable "availability_zones" {
   type        = list
-  description = "List of availability zones you want. Example: eu-west-1a and eu-west-1b"
+  description = "List of availability zones you want. Example: us-east-1a and us-east-1b"
 }
 
 variable "depends_id" {}
