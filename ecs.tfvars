@@ -25,7 +25,7 @@ private_subnet_cidrs = ["10.0.50.0/24", "10.0.51.0/24"]
 
 # The AWS availability zones to create subnets in.
 # For high-availability, we need at least two.
-availability_zones = ["eu-west-1a", "eu-west-1b"]
+availability_zones = ["us-east-1a", "us-east-1b"]
 
 # Maximum number of instances in the ECS cluster.
 max_size = 1
