@@ -1,4 +1,4 @@
-# AWS:
+# Infrastructure/AWS:
 
 ## VPC: Virtual Private Cloud
 
